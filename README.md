@@ -14,7 +14,9 @@
 
 <div align="center">
   <img width=600px src="./img/git-alurabook.gif">
-</div>
+</div><br>
+
+<p>Para visitar e conferir esta aplicação, acesse: https://alurabook-cadastro.vercel.app/</p>
 
 <h2>:computer: Tecnologias utilizadas</h2> 
   <div>
