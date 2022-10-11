@@ -14,7 +14,7 @@
 
 <div align="center">
   <img width=600px src="./img/git-alurabook.gif">
-</div><br>
+</div>
 
 <h2>:computer: Tecnologias utilizadas</h2> 
   <div>
